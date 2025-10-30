@@ -31,5 +31,3 @@ This dataset can be used for:
 - Simulating preference learning tasks
 
 ---
-
-## 📁 Folder Structure
